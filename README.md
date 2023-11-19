@@ -1,6 +1,6 @@
 # hector-writes
 
-This template should help get you started developing with Vue 3 in Vite.
+![Hector's message](./public/hectors-message.png)
 
 ## Recommended IDE Setup
 
